@@ -6,10 +6,12 @@ RoomGenius is a cutting-edge room improvement and design app designed to help yo
 
 - **AI-Driven Recommendations**  
   Take a photo of your room, and RoomGenius will analyze the image to suggest improvements such as:
-  - Rearranging or moving furniture.
-  - Decluttering by picking up clothes or organizing items.
-  - Recommending new furniture and decor items with links to purchase them on Amazon.
-  
+  - Rearranging or moving furniture to improve space efficiency and lighting (e.g., "Move your bed against the right wall to free up floor space and allow more natural light in").
+  - Decluttering by identifying items to organize or store away (e.g., "Remove the PC from your desk and place it on the floor to create a cleaner workspace").
+  - Enhancing the room's aesthetics by recommending new decor items like paintings, rugs, or lamps with purchase links.
+  - Suggesting color schemes or lighting adjustments to create a more harmonious or vibrant atmosphere.
+  - Identifying areas for adding practical items like shelves or organizers to reduce clutter.
+
 - **Furniture Recommendations**  
   Discover furniture options tailored to your space with direct shopping links.
 
